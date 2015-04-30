@@ -3,6 +3,7 @@ Practice Repo
 
 
 Initial setup to get you going with Protractor:
+
 1. Download & Install - node
 2. Download & Install - JDK
 3. Download & Install - Python: http://www.python.org/getit/windows/
